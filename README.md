@@ -6,15 +6,7 @@ Repository is a a collection of AI/ML-related research papers publicly available
 
 > To maintain a single source of truth, this repository links to the material instead of redistributing it.
 
-The collection follows loosely Harvard style citation with [GitHub markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) using [LaTeX](https://www.latex-project.org) style and [Markdown Badges](https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/creating-a-custom-badge-for-your-github-app) to display [Zenodo DOI badge](https://zenodo.org) or [unofficial arXiv badge](https://github.com/zsxoff/arxiv-badge) source for the paper.
-
-```md
-<!-- DOI badge -->
-[![DOI:10.1007/978-3-031-21438-7_60](https://zenodo.org/badge/DOI/10.13140/RG.2.2.14161.30569.svg)]( https://doi.org/10.13140/RG.2.2.14161.30569)
-
-<!-- arXiv badge -->
-[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/<INDEX>)
-```
+The collection follows loosely Harvard style citation with [GitHub markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) using [LaTeX](https://www.latex-project.org) style and [Markdown Badges](https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/creating-a-custom-badge-for-your-github-app) to display [Zenodo DOI badge](https://zenodo.org).
 
 ---
 
