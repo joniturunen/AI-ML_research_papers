@@ -47,3 +47,4 @@ The collection follows loosely Harvard style citation with [GitHub markdown lang
 <span id="ref-11"></span>[**[11]**](#ref-11) *Touvron H et al.* (2023) **Llama 2: Open Foundation and Fine-Tuned Chat Models**. arXiv.  
 [![DOI:10.48550/arxiv.2307.09288](https://zenodo.org/badge/DOI/10.48550/arxiv.2307.09288.svg)](https://doi.org/10.48550/arxiv.2307.09288)🔥🦙
 
+<span id="ref-12">[12]</span> *Nguyen-Duc A et al.* (2023) **Generative Artificial Intelligence for Software Engineering -- A Research Agenda**. arXiv. [![DOI:10.48550/arxiv.2310.18648](https://zenodo.org/badge/DOI/10.48550/arxiv.2310.18648.svg)](https://doi.org/10.48550/arxiv.2310.18648)
